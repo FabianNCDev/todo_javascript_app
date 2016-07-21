@@ -1,0 +1,25 @@
+{
+  "name": "todo_js_app",
+  "version": "0.0.1",
+  "description": "this is a desktop todo app built in html,css,js and nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "desktop",
+    "javascript",
+    "nodejs",
+    "html",
+    "css",
+    "grutn",
+    "lowdb",
+    "html5",
+    "todo-app"
+  ],
+  "author": "Fazt Js",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^0.13.1"
+  }
+}
